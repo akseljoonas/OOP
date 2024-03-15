@@ -1,0 +1,4 @@
+# YOU ARE NOT ALLOWED TO ADD OTHER REQUIREMENTS HERE
+numpy
+matplotlib
+pandas
